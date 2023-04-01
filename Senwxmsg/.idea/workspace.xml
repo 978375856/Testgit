@@ -14,6 +14,11 @@
     <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2NpZQSbn27SvvyLQM8uuWMqGpgJ" />
@@ -50,7 +55,7 @@
       <workItem from="1680362971596" duration="256000" />
       <workItem from="1680363251761" duration="448000" />
       <workItem from="1680363730610" duration="139000" />
-      <workItem from="1680363892681" duration="363000" />
+      <workItem from="1680363892681" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="1.11">
       <created>1680363816146</created>
@@ -66,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680363965617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.12">
+      <created>1680364448219</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680364448219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
