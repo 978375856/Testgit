@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/fastjson2-2.0.26.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/httpclient-4.5.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/httpcore-4.4.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/hutool-all-5.8.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="target/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
